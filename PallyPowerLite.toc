@@ -1,7 +1,7 @@
 ## Title: PallyPower Lite
-## Version: 1.0.7
+## Version: 1.0.8
 ## Author: freegman
-## Interface: 40400
+## Interface: 40402
 ## Notes: Helper for Paladins assignment and tracking buffs and auras in Raid/Party
 ## DefaultState: enabled
 ## Dependencies: 
